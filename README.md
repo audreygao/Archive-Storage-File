@@ -1,5 +1,5 @@
 # wi21-assigment2 - A File Archival Tool 
-### Due Feb 8, 2021 at 11:30pm  (PST)
+### Original repo (github classroom private):https://github.com/UCSD-ECE141/ece141-wi21-assignment2-audreygao
 
 ## Introduction
 
